@@ -1,4 +1,4 @@
-# Android-Keylogger
+# AndroLogger
 A app that collets all the typed data of the victim
 
 
@@ -20,4 +20,9 @@ And enjoy 😉
 
 
 
+# Contact Me
+
+<a href="https://t.me/grayhatzonebot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+<a href="mailto: d4rk-cl0ud@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
